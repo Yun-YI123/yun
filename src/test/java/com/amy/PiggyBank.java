@@ -20,6 +20,7 @@ public class PiggyBank {
                 e.printStackTrace();
             } catch (IOException e) {
                 e.printStackTrace();
+                //a
             }
 
             while (true) {
